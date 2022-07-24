@@ -1,0 +1,155 @@
+---
+title: "nbdev"
+css: index.css
+toc: false
+/* page-layout: custom */
+---
+
+::: {.banner}
+
+Experience A New Level Of Productivity For
+Python Projects, Articles & Documentation
+
+:::
+
+::: {.description}
+
+**nbdev** is an open source tool that allows you to author and distribute high quality python libraries, documentation, articles, and tests with Jupyter Notebooks, while still allowing you to use text based IDEs. 
+
+:::
+
+::: {.banner-buttons}
+
+[Explore the docs](nbdev.fast.ai){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
+
+:::
+
+Used by top organizations including
+
+![](netflix.svg)
+
+![](transform.svg)
+
+![](outerbounds.svg)
+
+![](novetta.svg)
+
+![](amd.svg)
+
+![](overstory.svg)
+
+![](bom.svg)
+
+nbdev is used for
+
+![](packaging.svg)
+
+Writing & distributing software packages
+
+![](testing.svg)
+
+Testing code
+
+![](docs.svg)
+
+Authoring documentation, blogs and articles
+
+Automatically Generate Beautiful Documentation, Blogs or Articles
+
+![](anika-stanton.png)
+
+Anika Stanton
+
+CEO, Netflix
+
+Automatically Generate Beautiful Documentation, Blogs or Articles
+
+![](haylie-press.png)
+
+Haylie Press
+
+CEO, Netflix
+
+Automatically Generate Beautiful Documentation, Blogs or Articles
+
+![](jaydon-schleifer.png)
+
+Jaydon Schleifer
+
+CEO, Netflix
+
+Automatically Generate Beautiful Documentation, Blogs or Articles
+
+![](jaydon-schleifer.png)
+
+Jaydon Schleifer
+
+CEO, Netflix
+
+Automatically Generate Beautiful Documentation, Blogs or Articles
+
+![](anika-stanton.png)
+
+Anika Stanton
+
+CEO, Netflix
+
+Automatically Generate Beautiful Documentation, Blogs or Articles
+
+![](haylie-press.png)
+
+Haylie Press
+
+CEO, Netflix
+
+Exploratory Programming
+Without Compromises
+
+With traditional software development approaches, you can only use a REPL or Notebook for prototyping. nbdev makes it possible to experience the best of both worlds by combining your exploratory and programming environments into one. Furthermore, using nbdev promotes software engineering best practices because tests and documentation are first class citizens.
+
+![](arrows-ccw.png)
+
+Automatically Generate Beautiful Documentation, Blogs or Articles
+
+![](infinity.png)
+
+Continuous integration (CI)
+
+![](vscode.svg)
+
+Still Use your favorite IDEs
+
+![](text-t.svg)
+
+Write prose, code, and tests in a single context
+
+![](packaging.svg)
+
+Package and distribute Python packages.
+
+![](jupyter.svg)
+
+Use notebooks for everything
+
+And many more...
+
+**Fine grained control on hiding/showing cells**: you can choose to hide entire cells, just the output, or just the input. Furthermore, you can embed cells in collapsible elements that are open or closed by default.
+
+**Math equation support** with LaTeX.
+
+Utilities to **automate the publishing of pypi and conda packages** including version number management.
+
+A robust, **two way sync between notebooks and source code**, which allow you to use your IDE for code navigation or quick edits if desired.
+
+Ability to **write tests directly in notebooks** without having to learn special APIs. These tests get executed in parallel with a single CLI command. You can even define certain groups of tests such that you don t have to always run long running tests.
+
+Tools for **merge/conflict resolution** with notebooks in a human readable format.
+
+Create Python modules, following **best practices such as automatically defining __all__** (more details) with your exported functions, classes, and variables.
+
+nbdev is quick to install 
+and it’s easy to get started.
+
+Explore the docs
+
+©fast.ai

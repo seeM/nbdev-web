@@ -1,0 +1,52 @@
+body {
+  background: #33373F;
+  color: #F9FAFB;
+}
+
+/* .content { */
+/*   display: flex; */
+/*   justify-content: center; */
+/* } */
+
+#quarto-header {
+  display: none;
+}
+
+.quarto-title-block {
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  padding: 8px 12px 4px;
+  background: linear-gradient(240.01deg, #4B555B 15.29%, rgba(67, 78, 84, 0) 138.75%);
+  border-radius: 8px;
+  font-size: 32px;
+  font-weight: 700;
+  color: #F9FAFB; /* Needed? */
+  vertical-align: center;
+}
+
+.banner {
+  /* font-family: 'Maison Neue'; */
+  width: 120%;
+  margin: auto;
+  margin-left: -10%;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 64px; /* or 133% */
+  text-align: center;
+  letter-spacing: -0.02em;
+}
+
+.description {
+  font-size: 16px;
+  line-height: 24px; /* or 150% */
+  text-align: center;
+  color: #ECF0F8;
+}
+
+.banner-buttons {
+  display: flex;
+  justify-content: center;
+}
