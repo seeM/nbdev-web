@@ -5,6 +5,7 @@
   --foreground: #F9FAFB;
   --foreground-2: #ECF0F8;
   --foreground-3: #646A74;
+  --foreground-4: #484d54;
   --content-width: 1000px;
 }
 
@@ -20,7 +21,7 @@ body {
 
 .navbar {
   background: var(--background);
-  /* border-bottom: 1px solid var(--foreground); */
+  border-bottom: 1px solid var(--foreground-4);
 }
 
 .title, .navbar-title {
