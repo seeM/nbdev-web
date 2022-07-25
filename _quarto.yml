@@ -14,7 +14,7 @@ format:
     toc: true
 
 website:
-  title: "nbdev-web"
+  title: "nbdev"
   description: "nbdev landing page"
   execute: 
     enabled: false
