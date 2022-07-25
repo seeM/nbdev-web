@@ -1,31 +1,34 @@
 ---
-title: "nbdev"
+pagetitle: nbdev
+page-layout: custom
+section-divs: false
 css: index.css
 toc: false
-/* page-layout: custom */
 ---
 
-::: {.banner}
+::: {.hero-banner}
 
-Experience A New Level Of Productivity For
-Python Projects, Articles & Documentation
+# Experience a New Level Of Productivity For Python Projects, Articles & Documentation
 
-:::
-
-::: {.description}
-
-**nbdev** is an open source tool that allows you to author and distribute high quality python libraries, documentation, articles, and tests with Jupyter Notebooks, while still allowing you to use text based IDEs. 
-
-:::
-
-::: {.banner-buttons}
+### **nbdev** is an open source tool that allows you to author and distribute high quality python libraries, documentation, articles, and tests with Jupyter Notebooks, while still allowing you to use text based IDEs. 
 
 [Explore the docs](nbdev.fast.ai){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
 
 :::
 
-Used by top organizations including
+::: {.feature-card}
 
+### Feature description
+
+![](nb-card.png)
+
+:::
+
+::: {.used-by}
+
+### Used by top organizations including
+
+::: {layout="[ [1,1,1,1], [1,1,1] ]"}
 ![](netflix.svg)
 
 ![](transform.svg)
@@ -39,68 +42,117 @@ Used by top organizations including
 ![](overstory.svg)
 
 ![](bom.svg)
+:::
 
-nbdev is used for
+:::
 
+::: {.mid-content}
+
+::: {.used-for}
+
+### <span class='title'>nbdev</span> is used for
+
+::: {.grid}
+
+::: {.g-col-4}
 ![](packaging.svg)
 
-Writing & distributing software packages
+#### Writing & distributing<br>software packages
+:::
 
+::: {.g-col-4}
 ![](testing.svg)
 
-Testing code
+#### Testing code
+:::
 
+::: {.g-col-4}
 ![](docs.svg)
 
-Authoring documentation, blogs and articles
+#### Authoring<br>documentation, blogs<br>and articles
+:::
 
-Automatically Generate Beautiful Documentation, Blogs or Articles
+:::
 
-![](anika-stanton.png)
+:::
 
-Anika Stanton
+::: {.testimonials .grid}
 
-CEO, Netflix
+::: {.g-col-4}
 
-Automatically Generate Beautiful Documentation, Blogs or Articles
-
-![](haylie-press.png)
-
-Haylie Press
-
-CEO, Netflix
-
-Automatically Generate Beautiful Documentation, Blogs or Articles
-
-![](jaydon-schleifer.png)
-
-Jaydon Schleifer
-
-CEO, Netflix
-
-Automatically Generate Beautiful Documentation, Blogs or Articles
-
-![](jaydon-schleifer.png)
-
-Jaydon Schleifer
-
-CEO, Netflix
-
-Automatically Generate Beautiful Documentation, Blogs or Articles
+::: {.testimonial}
+# Automatically Generate Beautiful Documentation, Blogs or Articles
 
 ![](anika-stanton.png)
 
-Anika Stanton
+## Anika Stanton
 
-CEO, Netflix
+### CEO, Netflix
+:::
 
-Automatically Generate Beautiful Documentation, Blogs or Articles
+::: {.testimonial}
+# Automatically Generate Beautiful Documentation, Blogs or Articles
 
 ![](haylie-press.png)
 
-Haylie Press
+## Haylie Press
 
-CEO, Netflix
+### CEO, Netflix
+:::
+
+:::
+
+::: {.g-col-4}
+
+::: {.testimonial}
+# Automatically Generate Beautiful Documentation, Blogs or Articles
+
+![](jaydon-schleifer.png)
+
+## Jaydon Schleifer
+
+### CEO, Netflix
+:::
+
+::: {.testimonial}
+# Automatically Generate Beautiful Documentation, Blogs or Articles
+
+![](jaydon-schleifer.png)
+
+## Jaydon Schleifer
+
+### CEO, Netflix
+:::
+
+:::
+
+::: {.g-col-4}
+
+::: {.testimonial}
+# Automatically Generate Beautiful Documentation, Blogs or Articles
+
+![](anika-stanton.png)
+
+## Anika Stanton
+
+### CEO, Netflix
+:::
+
+::: {.testimonial}
+# Automatically Generate Beautiful Documentation, Blogs or Articles
+
+![](haylie-press.png)
+
+## Haylie Press
+
+### CEO, Netflix
+:::
+
+:::
+
+:::
+
+:::
 
 Exploratory Programming
 Without Compromises
