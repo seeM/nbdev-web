@@ -54,19 +54,19 @@ toc: false
 
 ::: {.grid}
 
-::: {.g-col-4}
+::: {.g-col-12 .g-col-md-4}
 ![](packaging.svg)
 
 #### Writing & distributing<br>software packages
 :::
 
-::: {.g-col-4}
+::: {.g-col-12 .g-col-md-4}
 ![](testing.svg)
 
 #### Testing code
 :::
 
-::: {.g-col-4}
+::: {.g-col-12 .g-col-md-4}
 ![](docs.svg)
 
 #### Authoring<br>documentation, blogs<br>and articles
@@ -78,7 +78,7 @@ toc: false
 
 ::: {.testimonials .grid}
 
-::: {.g-col-4}
+::: {.g-col-12 .g-col-md-4}
 
 ::: {.testimonial}
 # Automatically Generate Beautiful Documentation, Blogs or Articles
@@ -102,7 +102,7 @@ toc: false
 
 :::
 
-::: {.g-col-4}
+::: {.g-col-12 .g-col-md-4}
 
 ::: {.testimonial}
 # Automatically Generate Beautiful Documentation, Blogs or Articles
@@ -126,7 +126,7 @@ toc: false
 
 :::
 
-::: {.g-col-4}
+::: {.g-col-12 .g-col-md-4}
 
 ::: {.testimonial}
 # Automatically Generate Beautiful Documentation, Blogs or Articles
