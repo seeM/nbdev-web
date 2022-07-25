@@ -6,7 +6,7 @@ css: index.css
 toc: false
 ---
 
-::: {.hero-banner}
+::: {.hero-banner .content-block}
 
 # Experience a New Level Of Productivity For Python Projects, Articles & Documentation
 
@@ -16,7 +16,7 @@ toc: false
 
 :::
 
-::: {.feature-card}
+::: {.feature-card .content-block}
 
 ### Feature description
 
@@ -24,35 +24,24 @@ toc: false
 
 :::
 
-::: {.used-by}
+::: {.used-by .content-block}
 
 ### Used by top organizations including
 
-::: {.grid}
-::: {.g-col-3}
+::: {.organizations}
 ![](netflix.svg)
-:::
-::: {.g-col-3}
-![](transform.svg)
-:::
-::: {.g-col-3}
-![](outerbounds.svg)
-:::
-::: {.g-col-3}
-![](novetta.svg)
-:::
-:::
 
-::: {.grid}
-::: {.g-col-3}
+![](transform.svg)
+
+![](outerbounds.svg)
+
+![](novetta.svg)
+
 ![](amd.svg)
-:::
-::: {.g-col-3}
+
 ![](overstory.svg)
-:::
-::: {.g-col-3}
+
 ![](bom.svg)
-:::
 :::
 
 :::
