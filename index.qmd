@@ -8,11 +8,11 @@ toc: false
 
 ::: {.hero-banner .content-block}
 
-# Experience a New Level Of Productivity For Python Projects, Articles & Documentation
+# Create delightful Python projects using Jupyter Notebooks
 
-### **nbdev** is an open source tool that allows you to author and distribute high quality python libraries, documentation, articles, and tests with Jupyter Notebooks, while still allowing you to use text based IDEs. 
+### **nbdev** lets you use Jupyter notebooks to write, test, document, and distribute software packages and technical articles.
 
-[Explore the docs](nbdev.fast.ai){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
+[Get started](nbdev.fast.ai){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
 
 :::
 
@@ -143,54 +143,75 @@ toc: false
 
 :::
 
-Exploratory Programming
-Without Compromises
+::: {.content-block}
 
-With traditional software development approaches, you can only use a REPL or Notebook for prototyping. nbdev makes it possible to experience the best of both worlds by combining your exploratory and programming environments into one. Furthermore, using nbdev promotes software engineering best practices because tests and documentation are first class citizens.
+::: {.hero-banner}
+# <span style='color:#009AF1'>Exploratory Programming</span><br>Without Compromise
 
+### <span style="color:#A2A8B4">With traditional software development approaches, you can only use a REPL or Notebook for prototyping. <span style="color:var(--foreground)">**nbdev**</span> makes it possible to experience the best of both worlds by combining your exploratory and programming environments into one. Furthermore, using nbdev promotes software engineering best practices because tests and documentation are first class citizens.</span>
+:::
+
+::: {.grid .gap-4}
+
+::: {.feature .g-col-12 .g-col-sm-6 .g-col-md-4}
 ![](arrows-ccw.png)
 
 Automatically Generate Beautiful Documentation, Blogs or Articles
-
+:::
+::: {.feature .g-col-12 .g-col-sm-6 .g-col-md-4}
 ![](infinity.png)
 
 Continuous integration (CI)
-
+:::
+::: {.feature .g-col-12 .g-col-sm-6 .g-col-md-4}
 ![](vscode.svg)
 
 Still Use your favorite IDEs
-
+:::
+::: {.feature .g-col-12 .g-col-sm-6 .g-col-md-4}
 ![](text-t.svg)
 
 Write prose, code, and tests in a single context
-
+:::
+::: {.feature .g-col-12 .g-col-sm-6 .g-col-md-4}
 ![](packaging.svg)
 
 Package and distribute Python packages.
-
+:::
+::: {.feature .g-col-12 .g-col-sm-6 .g-col-md-4}
 ![](jupyter.svg)
 
 Use notebooks for everything
+:::
 
-And many more...
+:::
 
-**Fine grained control on hiding/showing cells**: you can choose to hide entire cells, just the output, or just the input. Furthermore, you can embed cells in collapsible elements that are open or closed by default.
+::: {.used-for}
+### And much more...
+:::
 
-**Math equation support** with LaTeX.
+::: {.detailed-features}
+- ### **Fine grained control on hiding/showing cells**: you can choose to hide entire cells, just the output, or just the input. Furthermore, you can embed cells in collapsible elements that are open or closed by default.
+- ### **Math equation support** with LaTeX.
+- ### Utilities to **automate the publishing of pypi and conda packages** including version number management.
+- ### A robust, **two way sync between notebooks and source code**, which allow you to use your IDE for code navigation or quick edits if desired.
+- ### Ability to **write tests directly in notebooks** without having to learn special APIs. These tests get executed in parallel with a single CLI command. You can even define certain groups of tests such that you don t have to always run long running tests.
+- ### Tools for **merge/conflict resolution** with notebooks in a human readable format.
+- ### Create Python modules, following **best practices such as automatically defining __all__** (more details) with your exported functions, classes, and variables.
+:::
 
-Utilities to **automate the publishing of pypi and conda packages** including version number management.
+:::
 
-A robust, **two way sync between notebooks and source code**, which allow you to use your IDE for code navigation or quick edits if desired.
+::: {.mid-content}
 
-Ability to **write tests directly in notebooks** without having to learn special APIs. These tests get executed in parallel with a single CLI command. You can even define certain groups of tests such that you don t have to always run long running tests.
+::: {.used-for .content-block}
+### <span class='title' style='font-size: 0.8em'>nbdev</span> is quick to install<br>and it’s easy to get started.
+:::
 
-Tools for **merge/conflict resolution** with notebooks in a human readable format.
+[Explore the docs](nbdev.fast.ai){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
 
-Create Python modules, following **best practices such as automatically defining __all__** (more details) with your exported functions, classes, and variables.
-
-nbdev is quick to install 
-and it’s easy to get started.
-
-Explore the docs
-
+::: {.footer .content-block}
 ©fast.ai
+:::
+
+:::
