@@ -28,20 +28,31 @@ toc: false
 
 ### Used by top organizations including
 
-::: {layout="[ [1,1,1,1], [1,1,1] ]"}
+::: {.grid}
+::: {.g-col-3}
 ![](netflix.svg)
-
+:::
+::: {.g-col-3}
 ![](transform.svg)
-
+:::
+::: {.g-col-3}
 ![](outerbounds.svg)
-
+:::
+::: {.g-col-3}
 ![](novetta.svg)
+:::
+:::
 
+::: {.grid}
+::: {.g-col-3}
 ![](amd.svg)
-
+:::
+::: {.g-col-3}
 ![](overstory.svg)
-
+:::
+::: {.g-col-3}
 ![](bom.svg)
+:::
 :::
 
 :::
