@@ -48,11 +48,11 @@ toc: false
 
 ::: {.mid-content}
 
-::: {.used-for}
+::: {.used-for .content-block}
 
 ### <span class='title'>nbdev</span> is used for
 
-::: {.grid}
+::: {.grid style="row-gap: 80px"}
 
 ::: {.g-col-12 .g-col-md-4}
 ![](packaging.svg)
