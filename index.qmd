@@ -76,11 +76,10 @@ toc: false
 
 :::
 
-::: {.testimonials .grid}
 
-::: {.g-col-12 .g-col-md-4}
+::: {.content-block .grid .gap-4}
 
-::: {.testimonial}
+::: {.testimonial .g-col-12 .g-col-sm-6 .g-col-md-4}
 # Automatically Generate Beautiful Documentation, Blogs or Articles
 
 ![](anika-stanton.png)
@@ -90,7 +89,7 @@ toc: false
 ### CEO, Netflix
 :::
 
-::: {.testimonial}
+::: {.testimonial .g-col-12 .g-col-sm-6 .g-col-md-4}
 # Automatically Generate Beautiful Documentation, Blogs or Articles
 
 ![](haylie-press.png)
@@ -100,11 +99,7 @@ toc: false
 ### CEO, Netflix
 :::
 
-:::
-
-::: {.g-col-12 .g-col-md-4}
-
-::: {.testimonial}
+::: {.testimonial .g-col-12 .g-col-sm-6 .g-col-md-4}
 # Automatically Generate Beautiful Documentation, Blogs or Articles
 
 ![](jaydon-schleifer.png)
@@ -114,7 +109,7 @@ toc: false
 ### CEO, Netflix
 :::
 
-::: {.testimonial}
+::: {.testimonial .g-col-12 .g-col-sm-6 .g-col-md-4}
 # Automatically Generate Beautiful Documentation, Blogs or Articles
 
 ![](jaydon-schleifer.png)
@@ -124,11 +119,7 @@ toc: false
 ### CEO, Netflix
 :::
 
-:::
-
-::: {.g-col-12 .g-col-md-4}
-
-::: {.testimonial}
+::: {.testimonial .g-col-12 .g-col-sm-6 .g-col-md-4}
 # Automatically Generate Beautiful Documentation, Blogs or Articles
 
 ![](anika-stanton.png)
@@ -138,7 +129,7 @@ toc: false
 ### CEO, Netflix
 :::
 
-::: {.testimonial}
+::: {.testimonial .g-col-12 .g-col-sm-6 .g-col-md-4}
 # Automatically Generate Beautiful Documentation, Blogs or Articles
 
 ![](haylie-press.png)
@@ -146,8 +137,6 @@ toc: false
 ## Haylie Press
 
 ### CEO, Netflix
-:::
-
 :::
 
 :::
