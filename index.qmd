@@ -1,4 +1,5 @@
 ---
+title: nbdev
 pagetitle: nbdev – Create delightful software with Jupyter Notebooks
 page-layout: custom
 section-divs: false
