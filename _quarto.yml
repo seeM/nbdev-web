@@ -14,24 +14,25 @@ format:
     toc: true
 
 website:
-  favicon: favicon.png
   title: "nbdev"
   description: "nbdev landing page"
   execute: 
     enabled: false
   twitter-card: true
   open-graph: true
-  reader-mode: false
+  reader-mode: true
   repo-branch: master
   repo-url: https://github.com/seem/nbdev-web/
   repo-actions: [issue]
-  site-url: https://seem.github.io/nbdev-web/
   navbar:
     background: primary
     search: true
     right:
       - icon: github
         href: https://github.com/seem/nbdev-web/
+  sidebar:
+    style: "floating"
 
 metadata-files: 
+  - sidebar.yml
   - custom.yml

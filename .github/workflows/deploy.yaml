@@ -23,8 +23,7 @@ jobs:
           python -m pip install git+https://github.com/fastai/nbdev.git
           pip install -qe ".[dev]" 
       - name: Build website
-        # TODO: use nbdev and have a way to disable the sidebar
-        run: nbdev_install_quarto && quarto render
+        run: nbdev_docs
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
