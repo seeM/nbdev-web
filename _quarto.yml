@@ -25,6 +25,7 @@ website:
   repo-branch: master
   repo-url: https://github.com/seem/nbdev-web/
   repo-actions: [issue]
+  site-url: https://seem.github.io/nbdev-web/
   navbar:
     background: primary
     search: true
