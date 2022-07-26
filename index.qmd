@@ -17,10 +17,8 @@ description: |
 
 [Get started](https://nbdev.fast.ai){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
 
-:::
+![](card.png){style="margin-top: 40px; margin-bottom: 40px"}
 
-::: {.feature-card .content-block}
-![](card.png)
 :::
 
 ::: {.hero-banner .mid-content}

@@ -103,36 +103,6 @@ body {
   }
 }
 
-.feature-card {
-  padding: 40px !important;
-  margin-bottom: 60px;
-  background: linear-gradient(240.83deg, #4158D0 -12.7%, #C850C0 41.1%, #FFCC70 99.57%);
-border-radius: 24px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-@media(min-width: 1200px) {
-  .feature-card {
-    max-width: 1100px;
-  }
-}
-
-.feature-card h3 {
-  font-size: 16px;
-  font-weight: bold;
-  margin-bottom: 40px;
-}
-
-.feature-card p {
-  margin: 0;
-}
-
-.feature-card img {
-  margin: 0;
-}
-
 .mid-content {
   width: 100%;
   padding: 0;
