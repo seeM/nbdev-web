@@ -56,32 +56,32 @@ image: card.png
 ::: {.feature .g-col-12 .g-col-sm-6 .g-col-md-4}
 ![](docs.svg)
 
-Beautiful technical documentation and scientific articles with Quarto.
+Beautiful technical documentation and scientific articles with Quarto
 :::
 ::: {.feature .g-col-12 .g-col-sm-6 .g-col-md-4}
 ![](testing.svg)
 
-Out-of-the-box continuous integration with GitHub Actions.
+Out-of-the-box continuous integration with GitHub Actions
 :::
 ::: {.feature .g-col-12 .g-col-sm-6 .g-col-md-4}
 ![](packaging.svg)
 
-Publish code to PyPI and conda, and prose to GitHub Pages.
+Publish code to PyPI and conda, and prose to GitHub Pages
 :::
 ::: {.feature .g-col-12 .g-col-sm-6 .g-col-md-4}
 ![](vscode.svg)
 
-Two-way sync with your favourite IDEs.
+Two-way sync with your favourite IDEs
 :::
 ::: {.feature .g-col-12 .g-col-sm-6 .g-col-md-4}
 ![](jupyter.svg)
 
-Write prose, code, and tests in notebooks — no context-switching.
+Write prose, code, and tests in notebooks — no context-switching
 :::
 ::: {.feature .g-col-12 .g-col-sm-6 .g-col-md-4}
 ![](git.svg)
 
-Git-friendly notebooks: human-readable merge conflicts; no unwanted metadata.
+Git-friendly notebooks: human-readable merge conflicts; no unwanted metadata
 :::
 
 :::
