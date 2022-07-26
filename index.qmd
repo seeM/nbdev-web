@@ -8,7 +8,7 @@ toc: false
 
 ::: {.hero-banner .content-block}
 
-# Create delightful software<br>with Jupyter Notebooks
+# <span style='color:#009AF1'>Create delightful software</span><br>with Jupyter Notebooks
 
 ### Write, test, document, and distribute software packages and technical articles — all in one place, your notebook.
 
@@ -22,7 +22,7 @@ toc: false
 
 ::: {.hero-banner .content-block}
 
-## Trusted in production
+## <span style='color:#009AF1'>Trusted</span> in production
 
 :::
 
