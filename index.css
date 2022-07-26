@@ -21,7 +21,6 @@ body {
 
 .navbar {
   background: var(--background);
-  border-bottom: 1px solid var(--foreground-4);
 }
 
 .title, .navbar-title {
@@ -63,15 +62,22 @@ body {
 .hero-banner {
   padding-top: 20px;
   padding-bottom: 10px;
-  margin-bottom: 60px;
+  margin-bottom: 30px;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
 .hero-banner h1 {
-  /* font-family: 'Maison Neue'; */
-  font-size: 48px;
+  font-size: 56px;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
+
+.hero-banner h2 {
+  border: none;
+  font-size: 40px;
   font-weight: bold;
   margin-top: 10px;
   margin-bottom: 40px;
@@ -79,7 +85,7 @@ body {
 
 .hero-banner h3 {
   color: var(--foreground-2);
-  font-size: 16px;
+  font-size: 20px;
   max-width: 90%;
   margin-left: auto;
   margin-right: auto;
@@ -100,6 +106,7 @@ body {
 }
 
 .feature-card {
+  padding: 40px !important;
   margin-bottom: 60px;
   background: linear-gradient(240.83deg, #4158D0 -12.7%, #C850C0 41.1%, #FFCC70 99.57%);
 border-radius: 24px;
@@ -116,7 +123,7 @@ border-radius: 24px;
 
 .feature-card h3 {
   font-size: 16px;
-  margin-top: 40px;
+  font-weight: bold;
   margin-bottom: 40px;
 }
 
@@ -125,7 +132,7 @@ border-radius: 24px;
 }
 
 .feature-card img {
-  width: 65%;
+  margin: 0;
 }
 
 /* .feature-card-window { */
@@ -204,7 +211,6 @@ border-radius: 24px;
 
 .testimonial h1 {
   font-size: 20px;
-  font-weight: bold;
   margin: 0;
   margin-bottom: 50px;
 }
@@ -214,6 +220,7 @@ border-radius: 24px;
   float: left;
   width: 50px;
   margin-right: 20px;
+  border-radius: 8px;
 }
 
 .testimonial h2 {
@@ -222,18 +229,18 @@ border-radius: 24px;
   border: none;
   padding: 0;
   margin: 0;
-  margin-bottom: 6px;
+  margin-bottom: 4px;
 }
 
 .testimonial h3 {
-  font-size: 12px;
-  font-weight: bold;
+  font-size: 16px;
   padding: 0;
   margin: 0;
   color: #A2A8B4;
 }
 
 .feature {
+  font-size: 16px;
   height: 240px;
   background: var(--background-3);
   border-radius: 12px;
@@ -295,9 +302,9 @@ border-radius: 24px;
 }
 
 .footer {
+  color: #A2A8B4;
   font-size: 16px;
   margin-top: 40px;
-  padding-top: 30px;
-  border-top: 1px solid var(--foreground-3);
-  text-align: left;
+  padding-top: 30px !important;
+  border-top: 1px solid var(--foreground-4);
 }

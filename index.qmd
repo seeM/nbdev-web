@@ -8,27 +8,25 @@ toc: false
 
 ::: {.hero-banner .content-block}
 
-# Create delightful Python projects using Jupyter Notebooks
+# Create delightful software<br>with Jupyter Notebooks
 
-### **nbdev** lets you use Jupyter notebooks to write, test, document, and distribute software packages and technical articles.
+### Write, test, document, and distribute software packages and technical articles — all in one place, your notebook.
 
 [Get started](nbdev.fast.ai){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
 
 :::
 
 ::: {.feature-card .content-block}
+![](card.png)
+:::
 
-### Feature description
+::: {.hero-banner .content-block}
 
-![](nb-card.png)
+## Trusted in production
 
 :::
 
-::: {.used-by .content-block}
-
-### Used by top organizations including
-
-::: {.organizations}
+::: {.organizations .content-block}
 ![](netflix.svg)
 
 ![](transform.svg)
@@ -44,174 +42,130 @@ toc: false
 ![](bom.svg)
 :::
 
-:::
-
-::: {.mid-content}
-
-::: {.used-for .content-block}
-
-### <span class='title'>nbdev</span> is used for
-
-::: {.grid style="row-gap: 80px"}
-
-::: {.g-col-12 .g-col-md-4}
-![](packaging.svg)
-
-#### Writing & distributing<br>software packages
-:::
-
-::: {.g-col-12 .g-col-md-4}
-![](testing.svg)
-
-#### Testing code
-:::
-
-::: {.g-col-12 .g-col-md-4}
-![](docs.svg)
-
-#### Authoring<br>documentation, blogs<br>and articles
-:::
-
-:::
-
-:::
-
-
-::: {.content-block .grid .gap-4}
-
-::: {.testimonial .g-col-12 .g-col-sm-6 .g-col-md-4}
-# Automatically Generate Beautiful Documentation, Blogs or Articles
-
-![](anika-stanton.png)
-
-## Anika Stanton
-
-### CEO, Netflix
-:::
-
-::: {.testimonial .g-col-12 .g-col-sm-6 .g-col-md-4}
-# Automatically Generate Beautiful Documentation, Blogs or Articles
-
-![](haylie-press.png)
-
-## Haylie Press
-
-### CEO, Netflix
-:::
-
-::: {.testimonial .g-col-12 .g-col-sm-6 .g-col-md-4}
-# Automatically Generate Beautiful Documentation, Blogs or Articles
-
-![](jaydon-schleifer.png)
-
-## Jaydon Schleifer
-
-### CEO, Netflix
-:::
-
-::: {.testimonial .g-col-12 .g-col-sm-6 .g-col-md-4}
-# Automatically Generate Beautiful Documentation, Blogs or Articles
-
-![](jaydon-schleifer.png)
-
-## Jaydon Schleifer
-
-### CEO, Netflix
-:::
-
-::: {.testimonial .g-col-12 .g-col-sm-6 .g-col-md-4}
-# Automatically Generate Beautiful Documentation, Blogs or Articles
-
-![](anika-stanton.png)
-
-## Anika Stanton
-
-### CEO, Netflix
-:::
-
-::: {.testimonial .g-col-12 .g-col-sm-6 .g-col-md-4}
-# Automatically Generate Beautiful Documentation, Blogs or Articles
-
-![](haylie-press.png)
-
-## Haylie Press
-
-### CEO, Netflix
-:::
-
-:::
-
-:::
-
 ::: {.content-block}
 
 ::: {.hero-banner}
-# <span style='color:#009AF1'>Exploratory Programming</span><br>Without Compromise
+## <span style='color:#009AF1'>Exploratory programming</span><br>without compromise
 
-### <span style="color:#A2A8B4">With traditional software development approaches, you can only use a REPL or Notebook for prototyping. <span style="color:var(--foreground)">**nbdev**</span> makes it possible to experience the best of both worlds by combining your exploratory and programming environments into one. Furthermore, using nbdev promotes software engineering best practices because tests and documentation are first class citizens.</span>
+### Traditional programming environments throw away the result of your exploration in REPLs or notebooks. nbdev makes exploration an integral part of your workflow, all while promoting software engineering best practices.
 :::
 
-::: {.grid .gap-4}
+::: {.grid .gap-4 style="padding-bottom: 60px"}
 
 ::: {.feature .g-col-12 .g-col-sm-6 .g-col-md-4}
-![](arrows-ccw.png)
+![](docs.svg)
 
-Automatically Generate Beautiful Documentation, Blogs or Articles
+Beautiful technical documentation and scientific articles with Quarto.
 :::
 ::: {.feature .g-col-12 .g-col-sm-6 .g-col-md-4}
-![](infinity.png)
+![](testing.svg)
 
-Continuous integration (CI)
+Out-of-the-box continuous integration with GitHub Actions.
+:::
+::: {.feature .g-col-12 .g-col-sm-6 .g-col-md-4}
+![](packaging.svg)
+
+Publish code to PyPI and conda, and prose to GitHub Pages.
 :::
 ::: {.feature .g-col-12 .g-col-sm-6 .g-col-md-4}
 ![](vscode.svg)
 
-Still Use your favorite IDEs
-:::
-::: {.feature .g-col-12 .g-col-sm-6 .g-col-md-4}
-![](text-t.svg)
-
-Write prose, code, and tests in a single context
-:::
-::: {.feature .g-col-12 .g-col-sm-6 .g-col-md-4}
-![](packaging.svg)
-
-Package and distribute Python packages.
+Two-way sync with your favourite IDEs.
 :::
 ::: {.feature .g-col-12 .g-col-sm-6 .g-col-md-4}
 ![](jupyter.svg)
 
-Use notebooks for everything
+Write prose, code, and tests in notebooks — no context-switching.
+:::
+::: {.feature .g-col-12 .g-col-sm-6 .g-col-md-4}
+![](git.svg)
+
+Git-friendly notebooks: human-readable merge conflicts; no unwanted metadata.
 :::
 
 :::
 
-::: {.used-for}
-### And much more...
 :::
 
-::: {.detailed-features}
-- ### **Fine grained control on hiding/showing cells**: you can choose to hide entire cells, just the output, or just the input. Furthermore, you can embed cells in collapsible elements that are open or closed by default.
-- ### **Math equation support** with LaTeX.
-- ### Utilities to **automate the publishing of pypi and conda packages** including version number management.
-- ### A robust, **two way sync between notebooks and source code**, which allow you to use your IDE for code navigation or quick edits if desired.
-- ### Ability to **write tests directly in notebooks** without having to learn special APIs. These tests get executed in parallel with a single CLI command. You can even define certain groups of tests such that you don t have to always run long running tests.
-- ### Tools for **merge/conflict resolution** with notebooks in a human readable format.
-- ### Create Python modules, following **best practices such as automatically defining __all__** (more details) with your exported functions, classes, and variables.
-:::
-
-:::
 
 ::: {.mid-content}
 
-::: {.used-for .content-block}
-### <span class='title' style='font-size: 0.8em'>nbdev</span> is quick to install<br>and it’s easy to get started.
+::: {.hero-banner}
+## Here's what our users are saying
 :::
 
-[Explore the docs](nbdev.fast.ai){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
+::: {.content-block .grid .gap-4}
+
+::: {.testimonial .g-col-12 .g-col-sm-6 .g-col-md-6}
+# I really do think [nbdev] is a huge step forward for programming environments.
+
+![](chris-lattner.png)
+
+## Chris Lattner
+
+### Inventor of Swift, LLVM, and Swift Playgrounds
+:::
+
+::: {.testimonial .g-col-12 .g-col-md-6}
+# [nbdev] should be celebrated and used a lot more — I have kept a tab with your original nbdev blog post open for months in Chrome because of how often I refer to it and point others to this work.
+
+![](fernando-pérez.jpeg)
+
+## Fernando Pérez
+
+### Creator of Jupyter
+:::
+
+::: {.testimonial .g-col-12 .g-col-md-6}
+# Prior to using nbdev, documentation was the most cumbersome aspect of our software development process...<br><br>We would typically write and test code snippets in a notebook, author prose in a markdown editor, and then manually merge the two. We find that the best way to showcase software is a blend of prose and code, but the cumbersome process of copy-paste makes it time-consuming to create rich narratives with many interspersed code examples. Worst of all, the process is error-prone, leaving a high probability of publishing documentation that is broken. Using nbdev allows us to spend more time creating rich prose around the many code snippets guaranteeing the whole experience is robust.<br><br>nbdev has turned what was once a chore into a natural extension of the notebook-based testing we were already doing.
+
+![](david-berg.jpeg)
+
+## David Berg
+
+### Software Engineer, Netflix
+:::
+
+::: {.testimonial .g-col-12 .g-col-md-6}
+# I use this in production at my company. It's an awesome tool. Personally, when I'm coding in Python, I like to prototype in Jupyter, copy code over, and then reimport anyway. nbdev streamlines everything so I can write docs, tests, and code all in one place. And since the docs are just a Jekyll [now Quarto] site, I can copy it to our documentation AWS bucket in continuous integration. And with one command, I can run all the notebook tests in CI as well. The packaging is also really well thought out. I don't have to stress out about connecting setup.py with whatever publishing system we have. The settings.ini makes things sane, and I can bump the version whenever I want.<br><br>I get a lot of skeptical looks when I say the source code is in notebooks, but that's just syntactic sugar for the raw source code. You still get to edit the raw code files and with one command sync everything with the notebooks. From my point of view it is close to a Pareto improvement over traditional Python library development.
+
+![](erik-gaasedelen.jpeg)
+
+## Erik Gaasedelen
+
+### Software Engineer, Lyft
+:::
+
+::: {.testimonial .g-col-12 .g-col-md-6}
+# We’re so excited about using nbdev. Our product is technical so our resulting documentation includes a lot of code-based examples. Before nbdev, we had no way of maintaining our code examples and ensuring that it was up-to-date for both command inputs and outputs. It was all manual. With nbdev, we now have this under control in a sustainable way. Since we’ve deployed these docs, we also had a situation where we were able to identify a bug in one of our interfaces, which we found by seeing the error that was output in the documentation.
+
+![](roxanna-pourzand.jpeg)
+
+## Roxanna Pourzand
+
+### Product Manager, Transform
+:::
+
+::: {.testimonial .g-col-12 .g-col-md-6}
+# Nbdev has transformed the way we write documentation. Gone are the days of worrying about broken code examples when our API changes or due to human errors associated with copying & pasting code into markdown files. The authoring experience of nbdev is also powerful, allowing us to write prose and live code in a unified interface, which allows more experimentation with technical content. On top of this,  nbdev allows us to include unit tests in our documentation which mitigates the burden of maintaining the docs over time. 
+
+![](hugo-bowne-anderson.jpeg)
+
+## Hugo Bowne-Anderson
+
+### Head of Developer Relations, Outerbounds
+:::
+
+:::
+
+:::
+
+::: {.hero-banner .content-block style="margin-top: 40px"}
+## Get started in seconds
+
+[Install nbdev](nbdev.fast.ai){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
+:::
 
 ::: {.footer .content-block}
-©fast.ai
-:::
-
+Copyright © 2022 fast.ai. All rights reserved.
 :::
