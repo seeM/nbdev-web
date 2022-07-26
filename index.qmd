@@ -23,7 +23,7 @@ image: card.png
 
 ::: {.hero-banner .content-block}
 
-## <span style='color:#009AF1'>Trusted</span> in production
+## <span style='color:#009AF1'>Trusted</span> in industry
 
 :::
 
@@ -118,7 +118,7 @@ Git-friendly notebooks: human-readable merge conflicts; no unwanted metadata.
 :::
 
 ::: {.testimonial .g-col-12 .g-col-md-6}
-# Prior to using nbdev, documentation was the most cumbersome aspect of our software development process...<br><br>We would typically write and test code snippets in a notebook, author prose in a markdown editor, and then manually merge the two. We find that the best way to showcase software is a blend of prose and code, but the cumbersome process of copy-paste makes it time-consuming to create rich narratives with many interspersed code examples. Worst of all, the process is error-prone, leaving a high probability of publishing documentation that is broken. Using nbdev allows us to spend more time creating rich prose around the many code snippets guaranteeing the whole experience is robust.<br><br>nbdev has turned what was once a chore into a natural extension of the notebook-based testing we were already doing.
+# Prior to using nbdev, documentation was the most cumbersome aspect of our software development process…<br><br>Using nbdev allows us to spend more time creating rich prose around the many code snippets guaranteeing the whole experience is robust.<br><br>nbdev has turned what was once a chore into a natural extension of the notebook-based testing we were already doing.
 
 ![](david-berg.jpeg)
 
@@ -128,7 +128,7 @@ Git-friendly notebooks: human-readable merge conflicts; no unwanted metadata.
 :::
 
 ::: {.testimonial .g-col-12 .g-col-md-6}
-# I use this in production at my company. It's an awesome tool. Personally, when I'm coding in Python, I like to prototype in Jupyter, copy code over, and then reimport anyway. nbdev streamlines everything so I can write docs, tests, and code all in one place. And since the docs are just a Jekyll [now Quarto] site, I can copy it to our documentation AWS bucket in continuous integration. And with one command, I can run all the notebook tests in CI as well. The packaging is also really well thought out. I don't have to stress out about connecting setup.py with whatever publishing system we have. The settings.ini makes things sane, and I can bump the version whenever I want.<br><br>I get a lot of skeptical looks when I say the source code is in notebooks, but that's just syntactic sugar for the raw source code. You still get to edit the raw code files and with one command sync everything with the notebooks. From my point of view it is close to a Pareto improvement over traditional Python library development.
+# I use this in production at my company. It’s an awesome tool… nbdev streamlines everything so I can write docs, tests, and code all in one place… The packaging is also really well thought out.<br><br>From my point of view it is close to a Pareto improvement over traditional Python library development.
 
 ![](erik-gaasedelen.jpeg)
 
