@@ -4,6 +4,7 @@ page-layout: custom
 section-divs: false
 css: index.css
 toc: false
+image: card.png
 ---
 
 ::: {.hero-banner .content-block}
