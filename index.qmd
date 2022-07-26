@@ -108,7 +108,7 @@ Git-friendly notebooks: human-readable merge conflicts; no unwanted metadata
 
 ::: {.content-block .grid .gap-4}
 
-::: {.testimonial .g-col-12 .g-col-sm-6 .g-col-md-6}
+::: {.testimonial .g-col-12 .g-col-md-6}
 ![](chris-lattner.png)
 
 # Chris Lattner
