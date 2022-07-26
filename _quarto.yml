@@ -21,7 +21,7 @@ website:
     enabled: false
   twitter-card: true
   open-graph: true
-  reader-mode: true
+  reader-mode: false
   repo-branch: master
   repo-url: https://github.com/seem/nbdev-web/
   repo-actions: [issue]
