@@ -1,7 +1,6 @@
 :root {
   --background: #33373F;
-  --background-2: #1C2333;
-  --background-3: #41454E;
+  --background-2: #41454E;
   --foreground: white;
   --foreground-2: #484d54;
   --content-width: 1000px;
@@ -159,7 +158,7 @@ body {
 .feature {
   font-size: 16px;
   height: 210px;
-  background: var(--background-3);
+  background: var(--background-2);
   border-radius: 12px;
   padding: 30px;
   text-align: left;
