@@ -5,6 +5,8 @@ section-divs: false
 css: index.css
 toc: false
 image: /card.png
+description: |
+  Write, test, document, and distribute software packages and technical articles — all in one place, your notebook.
 ---
 
 ::: {.hero-banner .content-block}
