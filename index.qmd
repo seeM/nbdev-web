@@ -25,30 +25,30 @@ description: |
 
 ## <span style='color:#009AF1'>Trusted</span> in industry
 
-::: {.grid style="column-gap: 60px"}
+::: {.grid style="column-gap: 50px"}
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-3}
-![](netflix.svg)
+![](netflix.svg){height=26px stlye="position: relative; top: 1px"}
 :::
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-3}
-![](transform.svg)
+![](transform.svg){height=26px style="position: relative; bottom: 1px"}
 :::
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-3}
-![](outerbounds.svg)
+![](outerbounds.svg){height=23px style="position: relative; bottom: 1px"}
 :::
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-3}
-![](novetta.svg)
+![](novetta.svg){height=30px style="position: relative: top: 1px"}
 :::
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-3}
-![](amd.svg)
+![](amd.svg){height=22px}
 :::
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-3}
-![](overstory.svg)
+![](overstory.png){height=26px}
 :::
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-3}
-![](bom.svg)
+![](bom.png){height=46px style="position: relative; bottom: 12px"}
 :::
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-3}
-![](fastai.svg){width=90px}
+![](lyft.svg){height=34px}
 :::
 :::
 
