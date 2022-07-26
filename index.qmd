@@ -4,7 +4,7 @@ page-layout: custom
 section-divs: false
 css: index.css
 toc: false
-image: /card.png
+image: /images/card.png
 description: |
   Write, test, document, and distribute software packages and technical articles — all in one place, your notebook.
 ---
@@ -17,7 +17,7 @@ description: |
 
 [Get started](https://nbdev.fast.ai){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
 
-![](card.png){style="margin-top: 40px; margin-bottom: 40px"}
+![](images/card.png){style="margin-top: 40px; margin-bottom: 40px"}
 
 :::
 
@@ -27,28 +27,28 @@ description: |
 
 ::: {.grid style="column-gap: 50px"}
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-3}
-![](netflix.svg){height=26px stlye="position: relative; top: 1px"}
+![](images/netflix.svg){height=26px stlye="position: relative; top: 1px"}
 :::
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-3}
-![](transform.svg){height=26px style="position: relative; bottom: 1px"}
+![](images/transform.svg){height=26px style="position: relative; bottom: 1px"}
 :::
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-3}
-![](outerbounds.svg){height=23px style="position: relative; bottom: 1px"}
+![](images/outerbounds.svg){height=23px style="position: relative; bottom: 1px"}
 :::
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-3}
-![](novetta.svg){height=30px style="position: relative: top: 1px"}
+![](images/novetta.svg){height=30px style="position: relative: top: 1px"}
 :::
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-3}
-![](amd.svg){height=22px}
+![](images/amd.svg){height=22px}
 :::
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-3}
-![](overstory.png){height=26px}
+![](images/overstory.png){height=26px}
 :::
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-3}
-![](bom.png){height=46px style="position: relative; bottom: 12px"}
+![](images/bom.png){height=46px style="position: relative; bottom: 12px"}
 :::
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-3}
-![](lyft.svg){height=34px}
+![](images/lyft.svg){height=34px}
 :::
 :::
 
@@ -65,32 +65,32 @@ description: |
 ::: {.grid .gap-4 style="padding-bottom: 60px"}
 
 ::: {.feature .g-col-12 .g-col-sm-6 .g-col-md-4}
-![](docs.svg)
+![](images/docs.svg)
 
 Beautiful technical documentation and scientific articles with Quarto
 :::
 ::: {.feature .g-col-12 .g-col-sm-6 .g-col-md-4}
-![](testing.svg)
+![](images/testing.svg)
 
 Out-of-the-box continuous integration with GitHub Actions
 :::
 ::: {.feature .g-col-12 .g-col-sm-6 .g-col-md-4}
-![](packaging.svg)
+![](images/packaging.svg)
 
 Publish code to PyPI and conda, and prose to GitHub Pages
 :::
 ::: {.feature .g-col-12 .g-col-sm-6 .g-col-md-4}
-![](vscode.svg)
+![](images/vscode.svg)
 
 Two-way sync with your favourite IDEs
 :::
 ::: {.feature .g-col-12 .g-col-sm-6 .g-col-md-4}
-![](jupyter.svg)
+![](images/jupyter.svg)
 
 Write prose, code, and tests in notebooks — no context-switching
 :::
 ::: {.feature .g-col-12 .g-col-sm-6 .g-col-md-4}
-![](git.svg)
+![](images/git.svg)
 
 Git-friendly notebooks: human-readable merge conflicts; no unwanted metadata
 :::
@@ -109,7 +109,7 @@ Git-friendly notebooks: human-readable merge conflicts; no unwanted metadata
 ::: {.content-block .grid .gap-4}
 
 ::: {.testimonial .g-col-12 .g-col-md-6}
-![](chris-lattner.png)
+![](images/chris-lattner.png)
 
 # Chris Lattner
 
@@ -119,7 +119,7 @@ Git-friendly notebooks: human-readable merge conflicts; no unwanted metadata
 :::
 
 ::: {.testimonial .g-col-12 .g-col-md-6}
-![](fernando-pérez.jpeg)
+![](images/fernando-pérez.jpeg)
 
 # Fernando Pérez
 
@@ -130,7 +130,7 @@ Git-friendly notebooks: human-readable merge conflicts; no unwanted metadata
 
 ::: {.testimonial .g-col-12 .g-col-md-6}
 
-![](david-berg.jpeg)
+![](images/david-berg.jpeg)
 
 # David Berg
 
@@ -140,7 +140,7 @@ Git-friendly notebooks: human-readable merge conflicts; no unwanted metadata
 :::
 
 ::: {.testimonial .g-col-12 .g-col-md-6}
-![](erik-gaasedelen.jpeg)
+![](images/erik-gaasedelen.jpeg)
 
 # Erik Gaasedelen
 
@@ -150,7 +150,7 @@ Git-friendly notebooks: human-readable merge conflicts; no unwanted metadata
 :::
 
 ::: {.testimonial .g-col-12 .g-col-md-6}
-![](roxanna-pourzand.jpeg)
+![](images/roxanna-pourzand.jpeg)
 
 # Roxanna Pourzand
 
@@ -160,7 +160,7 @@ Git-friendly notebooks: human-readable merge conflicts; no unwanted metadata
 :::
 
 ::: {.testimonial .g-col-12 .g-col-md-6}
-![](hugo-bowne-anderson.jpeg)
+![](images/hugo-bowne-anderson.jpeg)
 
 # Hugo Bowne-Anderson
 
