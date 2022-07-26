@@ -48,7 +48,7 @@ image: card.png
 ![](bom.svg)
 :::
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-3}
-![](fastai.svg)
+![](fastai.svg){width=90px}
 :::
 :::
 
